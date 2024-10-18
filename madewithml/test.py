@@ -6,3 +6,5 @@ if ray.is_initialized():
 ray.init()
 
 # %%
+from madewithml import reference
+# %%
